@@ -1,0 +1,27 @@
+{
+  "name": "node.js_passport_login_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeabsira-mesfin/Node.js_Passport_Login_System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeabsira-mesfin/Node.js_Passport_Login_System/issues"
+  },
+  "homepage": "https://github.com/yeabsira-mesfin/Node.js_Passport_Login_System#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
